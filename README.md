@@ -19,3 +19,5 @@ Salvar o Documento: O usuário deve ser capaz de salvar as alterações feitas n
 Desfazer e Refazer Ações: Implementar funcionalidades de desfazer e refazer ações. Utilize pilhas para gerenciar as operações de desfazer e refazer.
 Navegação pelo Documento: Permitir ao usuário navegar pelo documento linha por linha e palavra por palavra.
 (Adicional) Procurar uma Palavra no Texto:  Permite procurar uma palavra ou frase no texto, destacando todas as ocorrências da palavra ou frase no texto. A busca pode ser sensível ou insensível a maiúsculas, dependendo das configurações ou opções selecionadas.
+
+Colaboradores: Daniel Servejeira e Rennan Furlaneto
